@@ -1,0 +1,22 @@
+[Server]
+  GopherDir = "./gopher"
+  GopherPort = "70"
+  Hostname="tunnelchaos.net"
+
+[[Events]]
+  Name = "38c3"
+
+  [[Events.Infos]]
+    Name = "News"
+    URL = "https://events.ccc.de/en/category/38c3/feed"
+    Type = 0
+
+  [[Events.Infos]]
+    Name = "Phonebook"
+    URL = "ou=38C3,dc=eventphone,dc=de"
+    Type = 1
+
+  [[Events.Infos]]
+    Name = "Schedule Main Stages"
+    URL = "https://fahrplan.events.ccc.de/congress/2024/fahrplan/schedule/export/schedule.json"
+    Type = 2
