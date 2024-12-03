@@ -8,5 +8,4 @@ Static pages for the gopherhole
 |-------------|--------------------|
 | 0           | RSS URL            |
 | 1           | iCAL URL           |
-| 2           | eventphone BASE DN |
-| 3           | pretalx json       |
+| 2           | pretalx json       |
