@@ -15,3 +15,13 @@
     Name = "Schedule Main Stages"
     URL = "https://fahrplan.events.ccc.de/congress/2024/fahrplan/schedule/export/schedule.json"
     Type = 2
+
+  [[Events.Infos]]
+    Name = "Assemblies"
+    URL = "https://api.events.ccc.de/congress/2024/assemblies?format=json"
+    Type = 3
+
+  [[Events.Infos]]
+    Name = "Schedule Assemblies"
+    URL = "https://api.events.ccc.de/congress/2024/events?format=json"
+    Type = 4
