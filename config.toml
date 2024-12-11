@@ -1,6 +1,6 @@
 [Server]
   GopherDir = "/var/gopher"
-  GopherPort = "70"
+  GopherPort = 70
   Hostname="tunnelchaos.net"
 
 [[Events]]
