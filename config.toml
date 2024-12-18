@@ -2,6 +2,7 @@
   GopherDir = "/var/gopher"
   GopherPort = 70
   Hostname="tunnelchaos.net"
+  SearchPort = 7070
 
 [[Events]]
   Name = "38c3"
