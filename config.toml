@@ -26,3 +26,15 @@
     Name = "Schedule Assemblies"
     URL = "https://api.events.ccc.de/congress/2024/events?format=json"
     Type = 4
+
+  Name = "GPN23"
+
+  [[Events.Infos]]
+    Name = "Schedule"
+    URL = "https://cfp.gulas.ch/gpn23/schedule/export/schedule.json"
+    Type = 2
+
+  [[Events.Infos]]
+    Name = "Lounge Schedule"
+    URL = "https://cfp.gulas.ch/gpn23-lounge/schedule/export/schedule.json"
+    Type = 2
