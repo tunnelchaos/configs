@@ -27,6 +27,7 @@
     URL = "https://api.events.ccc.de/congress/2024/events?format=json"
     Type = 4
 
+[[Events]]
   Name = "GPN23"
 
   [[Events.Infos]]
