@@ -5,14 +5,14 @@
   SearchPort = 7070
 
 [[Events]]
-  Name = "GPN23"
+  Name = "CFC25"
+
+  [[Events.Infos]]
+    Name = "News"
+    URL = "https://cfp.gulas.ch/gpn23/schedule/export/schedule.json"
+    Type = 0
 
   [[Events.Infos]]
     Name = "Schedule"
-    URL = "https://cfp.gulas.ch/gpn23/schedule/export/schedule.json"
-    Type = 2
-
-  [[Events.Infos]]
-    Name = "Lounge Schedule"
-    URL = "https://cfp.gulas.ch/gpn23-lounge/schedule/export/schedule.json"
+    URL = "https://pretalx.c3voc.de/chaos-feminist-convention-2025/schedule/export/schedule.json"
     Type = 2
