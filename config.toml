@@ -5,14 +5,9 @@
   SearchPort = 7070
 
 [[Events]]
-  Name = "CFC25"
-
-  [[Events.Infos]]
-    Name = "News"
-    URL = "https://www.haecksen.org/tag/cfc25/feed"
-    Type = 0
+  Name = "WHY2025"
 
   [[Events.Infos]]
     Name = "Schedule"
-    URL = "https://pretalx.c3voc.de/chaos-feminist-convention-2025/schedule/export/schedule.json"
+    URL = "https://program.why2025.org/why2025/schedule/export/schedule.json"
     Type = 2
