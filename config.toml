@@ -5,9 +5,3 @@
   SearchPort = 7070
 
 [[Events]]
-  Name = "WHY2025"
-
-  [[Events.Infos]]
-    Name = "Schedule"
-    URL = "https://program.why2025.org/why2025/schedule/export/schedule.json"
-    Type = 2
